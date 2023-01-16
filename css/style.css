@@ -51,7 +51,19 @@ a:hover {
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
+    animation-name: pic-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
     width: 100%;
+}
+
+@keyframes pic-zoom {
+    from {
+        transform: scale(1.0);
+    }
+    to {
+        transform: scale(1.08);
+    }
 }
 
 #cork-pic {

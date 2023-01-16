@@ -69,3 +69,13 @@ body    {
     border: 1px solid black;
 }
 
+.middle {
+    text-align: center;
+}
+
+hr  {
+    margin: 30px auto;
+    border-top: dotted;
+    width: 5%;
+    border-width: 5px;
+}

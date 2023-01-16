@@ -22,3 +22,50 @@ body    {
     font-family: 'Space Grotesk', sans-serif;
 }
 
+/* navigation */
+#navbar li {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#navbar, h1 {
+    line-height: 65px;
+}
+
+/* images */
+#pics   {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 66%;
+}
+
+#cork-pic {
+    background: url('../images/cork-city.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#food-pic   {
+    background: url('../images/shrimp-burger.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#market-pic   {
+    background: url('../images/market-pic.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+

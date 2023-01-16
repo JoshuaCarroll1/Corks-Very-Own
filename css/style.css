@@ -183,10 +183,13 @@ h4  {
     background-color: #EFA3C8;
     padding-top: 30px;
     padding-bottom: 30px;
+    border: 1px solid black;
 }
 
 footer {
     background-color: #EFA3C8;
     padding-top: 30px;
     padding-bottom: 30px;
+    border: 1px solid black;
+
 }

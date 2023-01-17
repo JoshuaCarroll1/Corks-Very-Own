@@ -157,15 +157,6 @@ a:hover {
     border: 1px solid black;
 }
 
-#coqbull3 {
-    background: url('../images/coqbull3.jpegs') no-repeat center center;
-    width: 100%;
-    height: 200px;
-    background-size: cover;
-    overflow: hidden;
-    border: 1px solid black;
-}
-
 
 .middle {
     text-align: center;
@@ -204,6 +195,10 @@ h3.text {
 
 h4  {
     font-size: 50px;
+}
+
+.herebutton {
+    color: #EFA3C8;
 }
 
 #title {

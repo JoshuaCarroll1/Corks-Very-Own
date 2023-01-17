@@ -139,6 +139,33 @@ a:hover {
     border: 1px solid black;
 }
 
+#coqbull1 {
+    background: url('../images/coqbull1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#coqbull2 {
+    background: url('../images/coqbull2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#coqbull3 {
+    background: url('../images/coqbull3.jpegs') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
 
 .middle {
     text-align: center;

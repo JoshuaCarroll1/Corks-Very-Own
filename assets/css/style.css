@@ -10,7 +10,7 @@
 
 h1,
 h2 {
-    color: #3A4F7A;
+    color: #460C68;
     font-size: 70px;
     letter-spacing: 2px;
     font-family: 'Shadows Into Light', cursive;
@@ -321,18 +321,18 @@ h4 {
 }
 
 .herebutton {
-    color: #EFA3C8;
+    color: #810CA8;
 }
 
 #title {
-    background-color: #EFA3C8;
+    background-color: #BCCEF8;
     padding-top: 30px;
     padding-bottom: 30px;
     border: 1px solid black;
 }
 
 footer {
-    background-color: #EFA3C8;
+    background-color: #BCCEF8;
     padding-top: 30px;
     padding-bottom: 30px;
     border: 1px solid black;

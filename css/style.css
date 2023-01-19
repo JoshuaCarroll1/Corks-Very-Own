@@ -1,5 +1,5 @@
 /* Main css for entire */
-@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
 
 *   {
@@ -9,10 +9,10 @@
 }
 
 h1, h2  {
-    color: #3498DB;
+    color: #3A4F7A;
     font-size: 70px;
     letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
     padding-top: 30px;
     padding-bottom: 30px;
 }

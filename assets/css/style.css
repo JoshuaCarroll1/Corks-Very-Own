@@ -48,15 +48,14 @@ a:hover {
 }
 
 /* images */
-#pics {
+.pics {
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
-    animation-name: pic-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    
     width: 100%;
+    overflow: hidden;
 }
 
 @keyframes pic-zoom {
@@ -104,6 +103,11 @@ a:hover {
     width: 100%;
 }
 
+.pics div {
+    animation-name: pic-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
 
 
 #restaurant {

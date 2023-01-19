@@ -193,6 +193,34 @@ a:hover {
     border: 1px solid black;
 }
 
+#ballyhass1 {
+    background: url('../images/ballyhass1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#ballyhass2 {
+    background: url('../images/ballyhass2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#ballyhass3 {
+    background: url('../images/ballyhass3.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+
 
 .middle {
     text-align: center;

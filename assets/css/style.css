@@ -53,7 +53,7 @@ a:hover {
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
-    
+
     width: 100%;
     overflow: hidden;
 }
@@ -336,6 +336,86 @@ a:hover {
     border: 1px solid black;
 }
 
+#blarney1 {
+    background: url('../images/blarney1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#blarney2 {
+    background: url('../images/blarney2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#blarney3 {
+    background: url('../images/blarney3.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#cliff1 {
+    background: url('../images/cliff1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#cliff2 {
+    background: url('../images/cliff2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#cliff3 {
+    background: url('../images/cliff3.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#market1 {
+    background: url('../images/market1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#market2 {
+    background: url('../images/market2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#market3 {
+    background: url('../images/market3.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
 
 .middle {
     text-align: center;

@@ -299,14 +299,6 @@ a:hover {
     border: 1px solid black;
 }
 
-#reardens3 {
-    background: url('../images/reardens3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
-    background-size: cover;
-    overflow: hidden;
-    border: 1px solid black;
-}
 
 #voodoo1 {
     background: url('../images/voodoo1.jpeg') no-repeat center center;
@@ -319,6 +311,24 @@ a:hover {
 
 #voodoo2 {
     background: url('../images/voodoo2.jpeg') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#yards1 {
+    background: url('../images/yards1.png') no-repeat center center;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+#yards2 {
+    background: url('../images/yards2.png') no-repeat center center;
     width: 100%;
     height: 200px;
     background-size: cover;

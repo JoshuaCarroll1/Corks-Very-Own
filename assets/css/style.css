@@ -316,9 +316,6 @@ h3.text {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-h4 {
-    font-size: 50px;
-}
 
 .herebutton {
     color: #810CA8;
@@ -336,5 +333,6 @@ footer {
     padding-top: 30px;
     padding-bottom: 30px;
     border: 1px solid black;
-
+    font-size: 50px;
+    text-align: center;
 }

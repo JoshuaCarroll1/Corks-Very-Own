@@ -1,6 +1,7 @@
 /* Main css for entire */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 * {
     margin: 0;
@@ -28,6 +29,8 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
 }
 
 #navbar,

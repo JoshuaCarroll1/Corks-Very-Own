@@ -476,6 +476,6 @@ footer {
 #map    {
     display: flex;
     justify-content: center;
-    height: 500px;
+    height: 450px;
     margin: 0 auto;
 }

@@ -74,7 +74,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 #food-pic {
@@ -83,8 +84,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #market-pic {
     background: url('../images/market-pic.jpeg') no-repeat center center;
@@ -92,16 +93,16 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #display {
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
-    width: 100%;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 .pics div {
     animation-name: pic-zoom;
@@ -116,8 +117,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #sports {
     background: url('../images/sports.jpeg') no-repeat center center;
@@ -125,8 +126,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #nightlife {
     background: url('../images/nightlife.jpeg') no-repeat center center;
@@ -134,8 +135,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #exploring {
     background: url('../images/exploring.jpeg') no-repeat center center;
@@ -143,8 +144,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #coqbull1 {
     background: url('../images/coqbull1.jpeg') no-repeat center center;
@@ -152,8 +153,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #coqbull2 {
     background: url('../images/coqbull2.jpeg') no-repeat center center;
@@ -161,8 +162,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #lab1 {
     background: url('../images/lab1.jpeg') no-repeat center center;
@@ -170,8 +171,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #lab2 {
     background: url('../images/lab2.jpeg') no-repeat center center;
@@ -179,8 +180,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #jacks1 {
     background: url('../images/jacks1.jpeg') no-repeat center center;
@@ -188,8 +189,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #jacks2 {
     background: url('../images/jacks2.jpeg') no-repeat center center;
@@ -197,8 +198,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #ballyhass1 {
     background: url('../images/ballyhass1.jpeg') no-repeat center center;
@@ -206,8 +207,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #ballyhass2 {
     background: url('../images/ballyhass2.jpeg') no-repeat center center;
@@ -215,8 +216,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #ballyhass3 {
     background: url('../images/ballyhass3.jpeg') no-repeat center center;
@@ -224,8 +225,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #trabolgan1 {
     background: url('../images/trabolgan1.jpeg') no-repeat center center;
@@ -233,8 +234,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #trabolgan2 {
     background: url('../images/trabolgan2.jpeg') no-repeat center center;
@@ -242,8 +243,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #trabolgan3 {
     background: url('../images/trabolgan3.jpeg') no-repeat center center;
@@ -251,8 +252,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #perks1 {
     background: url('../images/perks1.jpeg') no-repeat center center;
@@ -260,8 +261,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #perks2 {
     background: url('../images/perks2.jpeg') no-repeat center center;
@@ -269,8 +270,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #perks3 {
     background: url('../images/perks3.jpeg') no-repeat center center;
@@ -278,8 +279,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #reardens1 {
     background: url('../images/reardens1.jpeg') no-repeat center center;
@@ -287,8 +288,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #reardens2 {
     background: url('../images/reardens2.jpeg') no-repeat center center;
@@ -296,8 +297,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 
 #voodoo1 {
@@ -306,8 +307,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #voodoo2 {
     background: url('../images/voodoo2.jpeg') no-repeat center center;
@@ -315,8 +316,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #yards1 {
     background: url('../images/yards1.png') no-repeat center center;
@@ -324,8 +325,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #yards2 {
     background: url('../images/yards2.png') no-repeat center center;
@@ -333,8 +334,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #blarney1 {
     background: url('../images/blarney1.jpeg') no-repeat center center;
@@ -342,8 +343,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #blarney2 {
     background: url('../images/blarney2.jpeg') no-repeat center center;
@@ -351,8 +352,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #blarney3 {
     background: url('../images/blarney3.jpeg') no-repeat center center;
@@ -360,8 +361,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #cliff1 {
     background: url('../images/cliff1.jpeg') no-repeat center center;
@@ -369,8 +370,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #cliff2 {
     background: url('../images/cliff2.jpeg') no-repeat center center;
@@ -378,8 +379,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #cliff3 {
     background: url('../images/cliff3.jpeg') no-repeat center center;
@@ -387,8 +388,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #market1 {
     background: url('../images/market1.jpeg') no-repeat center center;
@@ -396,8 +397,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #market2 {
     background: url('../images/market2.jpeg') no-repeat center center;
@@ -405,8 +406,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 #market3 {
     background: url('../images/market3.jpeg') no-repeat center center;
@@ -414,8 +415,8 @@ a:hover {
     height: 200px;
     background-size: cover;
     overflow: hidden;
-    border: 1px solid black;
-}
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;}
 
 .middle {
     text-align: center;

@@ -527,6 +527,24 @@ footer {
 
 @media screen and (min-width: 700px) {
 
+    .pics {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 33.33%;
+        border: 1px solid black;
+    }
+
+    hr {
+        margin: 60px auto;
+        border-top: dotted;
+        width: 5%;
+        border-width: 5px;
+    }
+
+}
+
+@media screen and (min-width: 1000px) {
 
     .pics {
         display: flex;
@@ -539,7 +557,7 @@ footer {
     hr {
         margin: 60px auto;
         border-top: dotted;
-        width: 5%;
+        width: 3%;
         border-width: 5px;
     }
 

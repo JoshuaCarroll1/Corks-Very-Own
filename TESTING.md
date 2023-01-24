@@ -2,14 +2,9 @@
 
 Return back to the [README.md](README.md) file.
 
-In this section, you need to convince the assessors that you have conducted enough testing to legitimately believe that the site works well.
-Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended,
-with the project providing an easy and straightforward way for the users to achieve their goals.
 
 ## Code Validation
 
-Use the space to discuss code validation for any of your own code files (where applicable).
-You are not required to validate external libraries/frameworks, such as imported Bootstrap, Materialize, Font Awesome, etc.
 
 **IMPORTANT**: You must provide a screenshot for each file you validate.
 
@@ -19,13 +14,9 @@ You are not required to validate external libraries/frameworks, such as imported
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-- If you are copying/pasting your HTML code, use this link: https://validator.w3.org/#validate_by_input
 - (*recommended*) If you are using the live deployed site pages, use this link: https://validator.w3.org/#validate_by_uri
 
-It's recommended to validate the live pages (each of them) using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
-It makes it easier to return back to a page to validate it again in the future.
-The URL will look something like this:
+
 
 - https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Findex.html
 
@@ -44,13 +35,8 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-- If you are copying/pasting your HTML code, use this link: https://jigsaw.w3.org/css-validator/#validate_by_input
 - (*recommended*) If you are using the live deployed site, use this link: https://jigsaw.w3.org/css-validator/#validate_by_uri
 
-It's recommended to validate the live site if you only have a single CSS file using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
-It makes it easier to return back to the page to validate it again in the future.
-The URL will look something like this:
 
 - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own
 
@@ -59,9 +45,6 @@ is recommended for the additional CSS files.
 
 **IMPORTANT**: Third-Party tools
 
-If you're using extras like Bootstrap, Materialize, Font Awesome, then sometimes the validator
-will attempt to also validate this code, even if it's not part of your own actual code.
-You are not required to validate the external libraries or frameworks!
 
 Sample CSS code validation documentation (tables are extremely helpful!):
 

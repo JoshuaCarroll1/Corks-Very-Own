@@ -1,44 +1,20 @@
 # CORKS VERY OWN
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
-
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
-
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
-
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
-https://ui.dev/amiresponsive?url=https://joshuacarroll1.github.io/Corks-Very-Own
-
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
-![screenshot](documentation/mockup.png)
-
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
 
 ## UX
 
-In this section, you will briefly explain your design processes.
+In this section, I will briefly explain your design processes.
 
 ### Colour Scheme
 
 Explain your colours and the colour scheme.
 
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
+- `#460C68` used for my H1, H2 text.
+- `#D5F5E3` used for Body and H3 background.
+- `#BCCEF8` used for Footer and Header Background.
+- `#000000` used for Paragraphs text.
 
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
+I used https://colorhunt.co/ to find my palette.
 
 When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
 
@@ -66,17 +42,12 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### Typography
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+- [Shadows Into Light](https://fonts.google.com/specimen/Shadows+Into+Light) was used for the primary headers and titles.
 
-Example:
+- [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk?query=space+g) was used for all other secondary text.
 
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+- [Anton](https://fonts.google.com/specimen/Anton?query=anton) was used for the navigation text.
 
 ## User Stories
 

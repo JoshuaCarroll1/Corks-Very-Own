@@ -8,10 +8,13 @@
     padding: 0;
     border: 0;
 }
+:root   {
+    background-color: #D5F5E3;
+    color: #460C68;
+}
 
 h1,
 h2 {
-    color: #460C68;
     font-size: 70px;
     letter-spacing: 2px;
     font-family: 'Shadows Into Light', cursive;
@@ -20,7 +23,6 @@ h2 {
 }
 
 body {
-    background-color: #D5F5E3;
     font-family: 'Space Grotesk', sans-serif;
 }
 
@@ -56,7 +58,6 @@ a:hover {
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
-
     width: 100%;
     overflow: hidden;
 }

@@ -508,3 +508,22 @@ footer {
 
 
 }
+
+@media screen and (min-width: 1000px) {
+
+    .pics {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        width: 25%;
+        border: 1px solid black ;
+    }
+
+
+    hr {
+        margin: 60px auto;
+        border-top: dotted;
+        width: 5%;
+        border-width: 3px;
+    }
+}

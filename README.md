@@ -51,31 +51,23 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ## User Stories
 
-In this section, list all of your user stories for the project.
 
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to find a restaurant in Cork, so that I can eat in Cork.
+- As a new site user, I would like to find sports activities in Cork, so that I can find fun places to play sports in Cork.
+- As a new site user, I would like to find Cork's nightlife, to find pubs/ nightlife in Cork.
+- As a new site user, I would like to find places to explore in Cork, so that I can explore Cork.
+- As a new site user, I would like to find photos of Cork, so that I can see the best photos of Cork.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to find multiple different restaurants in Cork, so that I can .
+- As a returning site user, I would like to find multiple different sports activites in Cork, so that I can so that I can find more places to play sports in Cork.
+- As a returning site user, I would like to find multiple different places in Cork with nightlife, to find more pubs/ nightlife in Cork.
+- As a returning site user, I would like to find multiple different places in Cork to explore, so that I can explore more places in Cork.
+- As a returning site user, I would like to find multiple more photos and about the page, so that I can find out more about the page and more images.
 
-### Site Admin
-
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
 
 ## Wireframes
 
@@ -127,48 +119,38 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Feature #1**
+- **Link to menus/ external pages**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Link at end of sections to help Site Users find out more information about websites.
 
 ![screenshot](documentation/feature01.png)
 
-- **Feature #2**
+- **Link to sections**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Link to four sections (restaurants, sports, nightlife and exploring) to other pages for ease of access.
 
 ![screenshot](documentation/feature02.png)
 
-- **Feature #3**
+- **Map**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Map on about page to show Cork only!
 
 ![screenshot](documentation/feature03.png)
 
-Repeat as necessary for as many features as your site contains.
 
-Hint: the more, the merrier!
 
 ### Future Features
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
-- Cool new feature #1
-    - Any additional notes about this feature.
-- Cool new feature #2
-    - Any additional notes about this feature.
-- Cool new feature #3
-    - Any additional notes about this feature.
+- Google maps view #1
+    - Under every section I would like a google maps view of where exactly to find it.
+- Contact page #2
+    - Wanted to add a usable interactive contatc page and add to the navigation.
+- More sections on each page #3
+    - Would like to continously add more restaurants and other sections to make it more inclusive to people in Urban areas.
 
 ## Tools & Technologies Used
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
@@ -176,23 +158,11 @@ Feel free to delete any unused items below as necessary.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and/or [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 - [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
 
 ## Testing
 
@@ -265,12 +235,6 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 | [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
 | [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
-| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
 
 ### Media
 
@@ -298,11 +262,10 @@ by sending yourself the following command: `!freemedia`.
 
 ### Acknowledgements
 
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas.
 
-- I would like to thank my Code Institute mentor, [John/Jane Doe](https://github.com/username) for their support throughout the development of this project.
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my spouse/partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for keeping the slack channel up to date with useful tips.
+- I would like to thank my parents, for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my girlfriend, for supporting me in my career development change towards becoming a software developer and motivating me to keep on top of study daily.

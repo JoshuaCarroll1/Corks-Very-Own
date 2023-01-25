@@ -16,7 +16,6 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 - https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Findex.html
 
-Sample HTML code validation documentation (tables are extremely helpful!):
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
@@ -39,113 +38,63 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own
 
-If you have multiple CSS files, then individual [validation by input](https://jigsaw.w3.org/css-validator/#validate_by_input)
-is recommended for the additional CSS files.
 
-**IMPORTANT**: Third-Party tools
-
-
-Sample CSS code validation documentation (tables are extremely helpful!):
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
-| checkout.css | n/a | ![screenshot](documentation/css-validation-checkout.png) | Pass: No Errors |
-| x | x | x | repeat for all remaining CSS files |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![](documentation/css-validation-style.png) | Pass: No Errors |
+| checkout.css | n/a | ![](documentation/css1.png) | Pass: No Errors |
+
 
 ## Browser Compatibility
 
-Use this space to discuss testing the live/deployed site on various browsers.
 
-Consider testing at least 3 different browsers, if available on your system.
 
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Edge](https://www.microsoft.com/edge)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Brave](https://brave.com/download)
-- [Opera](https://www.opera.com/download)
-
-**IMPORTANT**: You must provide screenshots of the tested browsers, to "prove" that you've actually tested them.
-
-Please note, there are services out there that can test multiple browser compatibilities at the same time.
-Some of these are paid services, but some are free.
-If you use these, you must provide a link to the source used for attribution, and multiple screenshots of the results.
-
-Sample browser testing documentation:
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
-| Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
-| Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera.png) | Minor differences |
-| Internet Explorer | ![screenshot](documentation/browser-iex.png) | Does not work as expected |
-| x | x | repeat for any other tested browsers |
+| Chrome | ![](documentation/chrome1.png) | Works as expected |
+| Safari | ![](documentation/safari1.png) | Minor CSS differences |
+| Edge | ![](documentation/edge1.png) | Works as expected |
+| Brave | ![](documentation/brave1.png) | Works as expected |
 
 ## Responsiveness
 
-Use this space to discuss testing the live/deployed site on various device sizes.
 
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| Mobile (DevTools) | ![](documentation/mobile1.png) | Works as expected |
+| Tablet (DevTools) | ![](documentation/tablet1.png) | Works as expected |
+| Desktop | ![](documentation/desktop1.JPG) | Works as expected |
+| Macbook Air M2 | ![](documentation/macbook1.png) | Works as expected |
+| iPhone 12| ![](documentation/iphone1.jpeg) | Works as expected |
 
 ## Lighthouse Audit
 
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
-| About | Mobile | ![screenshot](documentation/lighthouse-about-mobile.png) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png) | Few warnings |
-| Gallery | Mobile | ![screenshot](documentation/lighthouse-gallery-mobile.png) | Slow response time due to large images |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | Mobile | ![](documentation/lighthouseHM.png) | Some minor warnings |
+| Home | Desktop | ![](documentation/lighthouseHD.png) | Few warnings |
+| About | Mobile | ![](documentation/lighthouseAM.png) | Some minor warnings |
+| About | Desktop | ![](documentation/lighthouseAD.png) | Few warnings |
+| Photos| Mobile | ![](documentation/lighthousePM.png) | Slow response time due to large images |
+| Photos | Desktop | ![](documentation/lighthousePD.png) | Slow response time due to large images |
+| Restaurants| Mobile | ![](documentation/lighthouseRM.png) | Slow response time due to large images |
+| Restaurants| Desktop | ![](documentation/lighthouseRD.png) | Slow response time due to large images |
+| Sports| Mobile | ![](documentation/lighthouseSM.png) | Slow response time due to large images |
+| Sports| Desktop | ![](documentation/lighthouseSD.png) | Slow response time due to large images |
+| Nightlife| Mobile | ![](documentation/lighthouseNM.png) | Slow response time due to large images |
+| Nightlife| Desktop | ![](documentation/lighthouseND.png) | Slow response time due to large images |
+| Exploring| Mobile | ![](documentation/lighthouseEM.png) | Slow response time due to large images |
+| Exploring| Desktop | ![](documentation/lighthouseED.png) | Slow response time due to large images |
 
 ## User Story Testing
 
@@ -157,16 +106,12 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to find a restaurant in Cork, so that I can eat in Cork. | ![](documentation/feature01.png) |
+| As a new site user, I would like to find sports activities in Cork, so that I can find fun places to play sports in Cork. | ![](documentation/feature02.png) |
+| As a new site user, I would like to find Cork's nightlife, so that I can to find pubs/ nightlife in Cork. | ![](documentation/feature03.png) |
+| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature04.png) |
+| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature05.png) |
+| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature06.png) |
 
 ## Bugs
 

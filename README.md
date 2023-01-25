@@ -16,27 +16,17 @@ Explain your colours and the colour scheme.
 
 I used https://colorhunt.co/ to find my palette.
 
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
 
 ![screenshot](documentation/coolors.png)
 
-If you've used CSS `:root` variables, consider also including a code snippet here!
 
 I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
 
 ```css
 :root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
+    /* P = Primary */
+    --p-text: #460C68;
+    --background: #D5F5E3;
 }
 ```
 
@@ -106,34 +96,28 @@ Repeat for any addition wireframe pages you have.
 
 ## Features
 
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
 For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
 - **Link to menus/ external pages**
 
     - Link at end of sections to help Site Users find out more information about websites.
+    - This is in the restaurants, sports, nightlife and exploring page at the end of most paragraphs!
 
 ![screenshot](documentation/feature01.png)
 
 - **Link to sections**
 
     - Link to four sections (restaurants, sports, nightlife and exploring) to other pages for ease of access.
+    - At the bottom of Home/ index and About page.
 
 ![screenshot](documentation/feature02.png)
 
 - **Map**
 
     - Map on about page to show Cork only!
+    - Under About Page section.
 
 ![screenshot](documentation/feature03.png)
 

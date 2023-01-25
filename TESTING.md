@@ -14,22 +14,21 @@ Return back to the [README.md](README.md) file.
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-- (*recommended*) If you are using the live deployed site pages, use this link: https://validator.w3.org/#validate_by_uri
-
-
-
 - https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Findex.html
 
 Sample HTML code validation documentation (tables are extremely helpful!):
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Fcontact.html) | ![screenshot](documentation/html-validation-contact.png) | obsolete iframe warnings |
-| Quiz | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJoshuaCarroll1.github.io%2FCorks-Very-Own%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
-| Add Blog | n/a | ![screenshot](documentation/html-validation-add-blog.png) | Duplicate IDs found, and fixed |
-| Checkout | n/a | ![screenshot](documentation/html-validation-checkout.png) | Pass: No Errors |
-| x | x | x | repeat for all remaining HTML files |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Findex.html) | ![](documentation/valid1.png) | Section lacks header h2-h6 warning |
+| About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Fabout.html) | ![](documentation/valid2.png) |  Section lacks header h2-h6 warning |
+| Photos | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Fphotos.html) | ![](documentation/valid3.png) | Pass: No Errors |
+| Restaurants | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Frestaurants.html) | ![](documentation/valid4.png) | Section lacks heading. Consider using h2-h6 |
+| Sports | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Fsports.html) | ![](documentation/valid5.png) |  Section lacks heading. Consider using h2-h6 |
+| Nightlife | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Fnightlife.html) | ![](documentation/valid6.png) | Section lacks heading. Consider using h2-h6 |
+| Exploring | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2Fexploring.html) | ![](documentation/valid7.png) | Section lacks heading. Consider using h2-h6 |
+
+
 
 ### CSS
 
@@ -244,36 +243,5 @@ Any remaining open issues can be tracked [here](https://github.com/JoshuaCarroll
 | [Python `E501 line too long` (93 > 79 characters)](https://github.com/JoshuaCarroll1/Corks-Very-Own/issues/5) | Open |
 
 ## Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed.
-This section should include shortcomings of the frameworks or technologies used.
-Although time can be a big variable to consider, paucity of time and difficulty understanding
-implementation is not a valid reason to leave bugs unfixed.
-
-If you've identified any unfixed bugs, no matter how small, be sure to list them here.
-It's better to be honest and list them, because if it's not documented and an assessor finds the issue,
-they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
-
-Some examples:
-
-- On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
-
-    ![screenshot](documentation/unfixed-bug01.png)
-
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
-
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
-
-    ![screenshot](documentation/unfixed-bug02.png)
-
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
-
-- When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
-
-    ![screenshot](documentation/unfixed-bug03.png)
-
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
-
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
 
 There are no remaining bugs that I am aware of.

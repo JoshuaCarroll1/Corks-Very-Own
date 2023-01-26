@@ -17,7 +17,7 @@ Explain your colours and the colour scheme.
 I used https://colorhunt.co/ to find my palette.
 
 
-![screenshot](documentation/coolors.png)
+![](documentation/colorhuntdocs.png)
 
 
 I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
@@ -84,7 +84,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
 | Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
 
-### Contact Page Wireframes
+### Photo Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
@@ -105,21 +105,21 @@ For some/all of your features, you may choose to reference the specific project 
     - Link at end of sections to help Site Users find out more information about websites.
     - This is in the restaurants, sports, nightlife and exploring page at the end of most paragraphs!
 
-![screenshot](documentation/feature01.png)
+![](documentation/feature01.png)
 
 - **Link to sections**
 
     - Link to four sections (restaurants, sports, nightlife and exploring) to other pages for ease of access.
     - At the bottom of Home/ index and About page.
 
-![screenshot](documentation/feature02.png)
+![](documentation/feature02.png)
 
 - **Map**
 
     - Map on about page to show Cork only!
     - Under About Page section.
 
-![screenshot](documentation/feature03.png)
+![](documentation/feature03.png)
 
 
 

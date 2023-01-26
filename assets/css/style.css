@@ -8,7 +8,8 @@
     padding: 0;
     border: 0;
 }
-:root   {
+
+:root {
     background-color: #D5F5E3;
     color: #460C68;
 }
@@ -72,34 +73,27 @@ a:hover {
     }
 }
 
-#cork-pic {
-    background: url('../images/cork-city.jpeg') no-repeat center center;
+.pic {
     width: 100%;
     height: 200px;
-    background-size: cover;
     overflow: hidden;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
+}
+
+#cork-pic {
+    background: url('../images/cork-city.jpeg') no-repeat center center;
+    background-size: cover;
 }
 
 #food-pic {
     background: url('../images/shrimp-burger.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
 }
 
 #market-pic {
     background: url('../images/market-pic.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
 }
 
 #display {
@@ -111,7 +105,7 @@ a:hover {
     border-bottom: 1px solid black;
 }
 
-.pics div {
+.pics:not(#gallery) .pic {
     animation-name: pic-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -120,343 +114,207 @@ a:hover {
 
 #restaurant {
     background: url('../images/restaurant.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #sports {
     background: url('../images/sports.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #nightlife {
     background: url('../images/nightlife.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #exploring {
     background: url('../images/exploring.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #coqbull1 {
     background: url('../images/coqbull1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #coqbull2 {
     background: url('../images/coqbull2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #lab1 {
     background: url('../images/lab1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #lab2 {
     background: url('../images/lab2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #jacks1 {
     background: url('../images/jacks1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #jacks2 {
     background: url('../images/jacks2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #ballyhass1 {
     background: url('../images/ballyhass1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #ballyhass2 {
     background: url('../images/ballyhass2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #ballyhass3 {
     background: url('../images/ballyhass3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #trabolgan1 {
     background: url('../images/trabolgan1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #trabolgan2 {
     background: url('../images/trabolgan2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #trabolgan3 {
     background: url('../images/trabolgan3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #perks1 {
     background: url('../images/perks1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #perks2 {
     background: url('../images/perks2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #perks3 {
     background: url('../images/perks3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #reardens1 {
     background: url('../images/reardens1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #reardens2 {
     background: url('../images/reardens2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 
 #voodoo1 {
     background: url('../images/voodoo1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #voodoo2 {
     background: url('../images/voodoo2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #yards1 {
     background: url('../images/yards1.png') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #yards2 {
     background: url('../images/yards2.png') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #blarney1 {
     background: url('../images/blarney1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #blarney2 {
     background: url('../images/blarney2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #blarney3 {
     background: url('../images/blarney3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #cliff1 {
     background: url('../images/cliff1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #cliff2 {
     background: url('../images/cliff2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #cliff3 {
     background: url('../images/cliff3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #market1 {
     background: url('../images/market1.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #market2 {
     background: url('../images/market2.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 #market3 {
     background: url('../images/market3.jpeg') no-repeat center center;
-    width: 100%;
-    height: 200px;
     background-size: cover;
-    overflow: hidden;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+
 }
 
 .middle {
@@ -528,12 +386,10 @@ footer {
 
 @media screen and (min-width: 700px) {
 
-    .pics {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        width: 33.33%;
-        border: 1px solid black;
+    #gallery {
+        display: grid;
+        width: 80%;
+        grid-template-columns: 1fr 1fr;
     }
 
     hr {
@@ -546,41 +402,17 @@ footer {
 
 }
 
-@media screen and (min-width: 700px) {
-
-    .pics {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        width: 33.33%;
-        border: 1px solid black;
-    }
-
-    hr {
-        margin: 60px auto;
-        border-top: dotted;
-        width: 5%;
-        border-width: 5px;
-    }
-
-
-
-}
 
 @media screen and (min-width: 1000px) {
 
-    .pics {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        width: 40%;
-        border: 1px solid black;
+    hr {
+        width: 3%;
+    }
+}
+@media screen and (min-width: 1300px) {
+
+    #gallery {
+        grid-template-columns: repeat(3, 1fr);
     }
 
-    hr {
-        margin: 60px auto;
-        border-top: dotted;
-        width: 3%;
-        border-width: 5px;
-    }
 }

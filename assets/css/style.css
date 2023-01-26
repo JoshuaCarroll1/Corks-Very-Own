@@ -386,6 +386,11 @@ footer {
 
 @media screen and (min-width: 700px) {
 
+
+    .pics   {
+        width: 40%;
+    }
+
     #gallery {
         display: grid;
         width: 80%;
@@ -399,7 +404,9 @@ footer {
         border-width: 5px;
     }
 
-
+    #gallery {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 

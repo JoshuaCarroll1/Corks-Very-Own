@@ -387,7 +387,7 @@ footer {
 @media screen and (min-width: 700px) {
 
 
-    .pics   {
+    .pics {
         width: 40%;
     }
 
@@ -416,6 +416,7 @@ footer {
         width: 3%;
     }
 }
+
 @media screen and (min-width: 1300px) {
 
     #gallery {

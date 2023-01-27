@@ -29,7 +29,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![](documentation/css-validation-style.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuacarroll1.github.io%2FCorks-Very-Own%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![](documentation/css1.png) | Pass: No Errors |
 
 
 ## Browser Compatibility
@@ -83,7 +83,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a new site user, I would like to find Cork's nightlife, so that I can to find pubs/ nightlife in Cork. | ![](documentation/feature02.png) |
 | As a returning site user, I would like to exploring, so that I can explore urban areas in Ireland. | ![](documentation/feature02.png) |
 | As a returning site user, I would like to see menus in Cork, so that I can eat in Cork. | ![](documentation/feature01.png) |
-| As a returning site user, I would like to see Photos of Cork, so that I can see the wonders of Cork. | ![](documentation/bug01.png.png) |
+| As a returning site user, I would like to see Photos of Cork, so that I can see the wonders of Cork. | ![](documentation/bug01.png) |
 
 ## Bugs
 

@@ -66,12 +66,11 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 | Size | Screenshot |
 | --- | --- |
-| Page | ![](documentation/wf1.png) |
+| Page | ![](documentation/wf1.jpg) |
 
 
 ## Features
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
 ### Existing Features
 
@@ -169,57 +168,61 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
 
 ## Credits
 
-In this section you need to reference where you got your content, media, and extra help from.
-It is common practice to use code from other repositories and tutorials,
-however, it is important to be very specific about these sources to avoid plagiarism.
 
 ### Content
 
-Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
-A few examples have been provided below to give you some ideas.
-
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
 
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
+| [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Tutorial Pages| Help with basic HTML/CSS |
+| [W3Schools](https://www.w3schools.com/css/css3_flexbox.as) | entire site | How to use flexbox |
 | [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
 
 ### Media
 
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [Ireland](https://www.ireland.com/en-au/destinations/county/cork/cork-city/) | Home/Photos page | Image | Under main header |
+| [EchoLive](https://www.echolive.ie/corknews/arid-40726149.html) | Home/Photos page | Image | Under main header |
+| [TripAdvisor](https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/b6/b3/82/shrimp-coriander-and.jpg) | Home/Photos page | Image | Under main header |
+| [SportsForBusiness](https://sportforbusiness.com/wp-content/uploads/2019/08/Pairc-Ui-Chaoimh-2-1200x640.jpg) | Home/About/Photos page | Image | Bottom of Pages  |
+| [Irelandbeforeyoudie](https://www.irelandbeforeyoudie.com/wp-content/uploads/2017/10/voodoo-1068x712.jpg) | Home/About/Photos page | Image | Bottom of Pages  |
+| [SpikeIslandCork](https://www.spikeislandcork.ie/) | Home/About/Photos page | Image | Bottom of Pages  |
+| [CoqbullCork](https://www.coqbull.com/wp-content/uploads/2020/11/COQBULL-Cork-800x533.jpg) | Restaurants/Photos page | Image | Top of Restaurant Page  |
+| [CoqbullCork](https://coqbullcork.ie/wp-content/uploads/2020/06/cb-burger-cians-shot-800x600.jpg) | Restaurants/Photos page | Image | Top of Restaurant Page  |
+| [CoqbullCork](https://homehak.com/wp-content/uploads/2020/09/view-of-cafe-from-the.jpg) | Restaurants/Photos page | Image | Top of Restaurant Page  |
+| [homehak](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3WaK8qiBJzvovcHZ8Cp1bZo6rzATQBKAuQ&usqp=CAU) | Restaurants/Photos page | Image | middle of Restaurant Page  |
+| [homehak](https://homehak.com/wp-content/uploads/2020/09/view-of-cafe-from-the.jpg) | Restaurants/Photos page | Image | middle of Restaurant Page  |
+| [dineatdome](https://dineatdome.com/wp-content/uploads/2020/07/33239203_436802053412309_4722413402054459392_o-1034x800.jpg) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [Deliveroo](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
 
-### Acknowledgements
 
 
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+| [](https://deliveroo.ie/menu/cork/cork/tequila-jacks-mexican-restaurant) | Restaurants/Photos page | Image | bottom of Restaurant Page  |
+
+
+
+
+## Acknowledgements
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.

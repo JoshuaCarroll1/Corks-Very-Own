@@ -217,7 +217,6 @@ You can fork this repository by using the following steps:
 | [irelandbeforeyoudie](https://www.irelandbeforeyoudie.com/wp-content/uploads/2017/10/voodoo-1920x1280.jpg) | Nightlife/Photos page | Image | middle of Nightlife Page  |
 | [corkbeo](https://i2-prod.corkbeo.ie/news/local-news/article20799284.ece/ALTERNATES/s810/1_Screen-Shot-2021-06-12-at-095608.png) | Nightlife/Photos page | Image | bottom of Nightlife Page  |
 | [corkbeo](https://i2-prod.corkbeo.ie/news/local-news/article20799297.ece/ALTERNATES/s615b/0_Screen-Shot-2021-06-12-at-100010.png) | Nightlife/Photos page | Image | bottom of Nightlife Page  |
-
 | [nohomejustroam](https://nohomejustroam.com/wp-content/uploads/2017/09/Blarney-Castle-waterfall-680x453.jpg) | Exploring/Photos page | Image | top of Exploring Page  |
 | [wikimedia](https://upload.wikimedia.org/wikipedia/commons/4/43/Blarney_Castle-02-2017-gje.jpg) | Exploring/Photos page | Image | top of Exploring Page  |
 | [wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/41/The_Blarney_Stone.jpg) | Exploring/Photos page | Image | top of Exploring Page  |

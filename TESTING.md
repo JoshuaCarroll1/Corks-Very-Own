@@ -78,12 +78,12 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to find a restaurant in Cork, so that I can eat in Cork. | ![](documentation/feature01.png) |
+| As a new site user, I would like to find a restaurant in Cork, so that I can eat in Cork. | ![](documentation/feature02.png) |
 | As a new site user, I would like to find sports activities in Cork, so that I can find fun places to play sports in Cork. | ![](documentation/feature02.png) |
-| As a new site user, I would like to find Cork's nightlife, so that I can to find pubs/ nightlife in Cork. | ![](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![](documentation/feature06.png) |
+| As a new site user, I would like to find Cork's nightlife, so that I can to find pubs/ nightlife in Cork. | ![](documentation/feature02.png) |
+| As a returning site user, I would like to exploring, so that I can explore urban areas in Ireland. | ![](documentation/feature02.png) |
+| As a returning site user, I would like to see menus in Cork, so that I can eat in Cork. | ![](documentation/feature01.png) |
+| As a returning site user, I would like to see Photos of Cork, so that I can see the wonders of Cork. | ![](documentation/bug01.png.png) |
 
 ## Bugs
 
